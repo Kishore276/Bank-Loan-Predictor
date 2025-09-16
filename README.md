@@ -33,6 +33,18 @@ This project is a simple web application for predicting bank loan approvals usin
 - The model is pre-trained; retraining is not included in this app.
 - For development or retraining, use your own data and model pipeline.
 
+## Developed By
+
+G.Yuva Kishore Reddy  
+Passionate about AI, automation, and building impactful tech solutions.
+
+## Contact
+
+Email: g.yuvakishorereddy@gmail.com   
+WhatsApp Channel: https://whatsapp.com/channel/0029Vb3la9V7NoZtA1GUI00d
+
+Star⭐ this repo if you found it helpful!
+
 ---
 
 **Author:** G.Yuva Kishore Reddy
